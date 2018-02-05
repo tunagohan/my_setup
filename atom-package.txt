@@ -1,0 +1,10 @@
+atom-beautify
+autocomplete-paths
+dracula-syntax
+dracula-ui
+file-icons
+git-history
+git-plus
+japanese-menu
+merge-conflicts
+teletype
